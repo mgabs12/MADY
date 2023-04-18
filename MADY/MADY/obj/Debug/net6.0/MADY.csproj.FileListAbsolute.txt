@@ -1,0 +1,15 @@
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\bin\Debug\net6.0\MADY.exe
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\bin\Debug\net6.0\MADY.deps.json
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\bin\Debug\net6.0\MADY.runtimeconfig.json
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\bin\Debug\net6.0\MADY.dll
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\bin\Debug\net6.0\ref\MADY.dll
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\bin\Debug\net6.0\MADY.pdb
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.csproj.AssemblyReference.cache
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.AssemblyInfoInputs.cache
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.AssemblyInfo.cs
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.csproj.CoreCompileInputs.cache
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.dll
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\ref\MADY.dll
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.pdb
+C:\Users\Monica\Documents\URL\QUINTO CICLO\Estructura de datos I\MADY\MADY\MADY\obj\Debug\net6.0\MADY.genruntimeconfig.cache
